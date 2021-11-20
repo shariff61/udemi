@@ -1,0 +1,46 @@
+h1 {
+  font-size: 40px;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#title {
+  background-color: indianred;
+  color: #fff;
+  padding: 3% 15%;
+}
+/* .container-fluid {
+  padding: 3% 15%;
+} */
+.nav1 {
+  font-size: 30px;
+}
+#features {
+  margin: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+p {
+  color: gray;
+}
+h3 {
+  font-weight: bolder;
+}
+.fast {
+  font-size: 20px;
+}
+.icon {
+  color: indianred;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: red;
+}
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  border-radius: 15px;
+}
